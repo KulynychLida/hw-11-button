@@ -4,10 +4,25 @@
     padding: 10px 20px;
     margin: 40px;
 }
-.btn:focus {
+.btn:hover {
     background-color: orange;
 }
-.text {
-    font-size: 18px;
-    font-style: italic;
+h1 {
+    font-size: 32px;
+}
+.text-one {
+    font-size: 24px;
+}
+.title-one {
+    text-align: center;
+}
+.text-two {
+    text-transform: capitalize;
+}
+.text-three {
+    text-align: right;
+    text-transform: uppercase;
+}
+.text-four {
+    font-weight: 700;
 }
